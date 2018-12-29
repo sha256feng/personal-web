@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
+  <head>
   {%- include head.html -%}
-
+  {% seo %}
+  </head>
+    
   <body>
 
     {%- include header.html -%}
