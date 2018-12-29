@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Shasha Feng's Research
+title: Shasha Feng
 email: shaalltime@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Shasha Feng, talking about research in MD simulation and membrane
   protein study.
 baseurl: "/JekyllDemo" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://sha256feng.git.io
-twitter_username: shashafeng3~~~
+twitter_username: shashafeng3
 github_username:  sha256feng
 
 # Build settings
