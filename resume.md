@@ -56,14 +56,13 @@ permalink: /resume/
 
 **HONORS AND SCHOLARSHIP**
 
-| 2018        | Excellent Graduate of Peking University                      |
-| ----------- | ------------------------------------------------------------ |
-| 2018        | Excellent Graduate of Beijing                                |
-| 2018        | Shentong Scholarship for Outstanding Graduates  in Biology ($3,000) |
-| 2017 – 2018 | Yangxin Merit Scholarship ($700)                             |
-| 2017        | Overseas Summer Research Fellowship ($5,000)                 |
-| 2016 – 2017 | Hui-Chun Chin and Tsung-Dao Lee Research  Endowment ($1,600) |
-| 2015 – 2017 | Guanghua Scholarship ($1,000)                                |
-| 2015 – 2016 | 10 Most Innovative Student Clubs (to Life  Science Industry Association, serve as president) |
-| 2014 – 2015 | Merit Student of  Peking University                          |
+2018        Excellent Graduate of Peking University                      
+2018        Excellent Graduate of Beijing                                
+2018        Shentong Scholarship for Outstanding Graduates  in Biology ($3,000) 
+2017 – 2018 Yangxin Merit Scholarship ($700)                             
+2017        Overseas Summer Research Fellowship ($5,000)                 
+2016 – 2017 Hui-Chun Chin and Tsung-Dao Lee Research  Endowment ($1,600) 
+2015 – 2017 Guanghua Scholarship ($1,000)                                
+2015 – 2016 10 Most Innovative Student Clubs (to Life  Science Industry Association, serve as president) 
+2014 – 2015 Merit Student of  Peking University                          
 
