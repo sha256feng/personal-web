@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   protein study.
 baseurl: "/JekyllDemo" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://sha256feng.git.io
-twitter_username: shashafeng3
+twitter_username: shashafeng3~~~
 github_username:  sha256feng
 
 # Build settings
