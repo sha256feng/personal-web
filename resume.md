@@ -38,16 +38,21 @@ permalink: /resume/
 **CONFERENCES**
 
 2018.9 **Society  of General Physiology Annual Symposium**, MBL Woods Hole,  MA, USA.
+
 2018.6 **2nd Worldwide Chinese Computational  Biology and Molecular Simulation Conference**, Guangzhou, China.
+
 2018.4 **Tsinghua International Symposium of Computational  Structural Biology and Biophysics**,   Beijing, China.
+
 2018.2 **62nd Annual Meeting of Biophysics  Society**, San Francisco,  CA, USA.  (Poster  Presentation: **Shasha, F.**, Jeffery,  B.K., Wonpil, I., *Function, Property,  and Interaction of Archaeal Lipids: A Molecular Dynamics Simulation Study*.) 
+
 2017.6 **International  Symposium of** **Quantitative Biology: Computation and Single  Molecular Biophysics**, Beijing,  China.
+
 2016.9 **4th  Annual Symposium of Honors Undergraduate Program in Biology**,  Beijing, China.   (Organizer, Poster Presentation: **Shasha, F.**, Yongxian, X., Peng, Z., *Developing Voltage Sensor QuasAr2 for  Neuroscience Research*.)
 
 **TEACHING EXPERIENCE**
 
-2017.9 – 2018.1 | Biochemistry Discussion Class (3h-long class)              
-2016.9 – 2018.1 | Frontiers in Biological Sciences (Seminar  discussion class, 3h-long class)
+2017.9 – 2018.1   Biochemistry Discussion Class (3h-long class)              
+2016.9 – 2018.1   Frontiers in Biological Sciences (Seminar  discussion class, 3h-long class)
 
 **HONORS AND SCHOLARSHIP**
 
