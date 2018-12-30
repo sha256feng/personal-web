@@ -9,7 +9,7 @@ permalink: /resume/
 **EDUCATION**
 
 2018 – Present&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. program in Biochemistry, Lehigh University, USA                      
-2014 - 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Biological Sciences, Peking University, Beijing, China
+2014 - 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Biological Sciences, Peking University, Beijing, China\
 2012 - 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.A. program in Japanese Literature and Culture, Peking University, Beijing, China
 
 **RESEARCH EXPERIENCE**
