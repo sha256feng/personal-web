@@ -4,16 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the online base of Shasha Feng, PhD student in biochem, enthusiast of macromolecular structure, big fan of TRP channels. You can find out more info about Shasha at this site, as well as how she developed and evolved throughout PhD life.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can find Shasha physcially:
+[Work] Iacocca C011/
+[Sports] Goodman sports complex, Taylor gym, mountains around Bethlehem
 
