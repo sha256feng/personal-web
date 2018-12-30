@@ -11,6 +11,7 @@ This is such a fantastic year. I went through lots of fancinating things during 
 (Not this type though)<br/>
 ![Not this kind of fiction writing](https://github.com/sha256feng/personal-web/blob/gh-pages/images/2018-12-29-post.jpeg)
 ![Not this kind of fiction writing](../images/2018-12-29-post.jpeg)
+<img src="../images/2018-12-29-post.jpeg" />
 
 *Keep an eye.* 
 
