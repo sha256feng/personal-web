@@ -47,7 +47,7 @@ permalink: /resume/
 2017.9 – 2018.1 &nbsp;&nbsp;&nbsp; Biochemistry Discussion Class (3h-long class)              
 2016.9 – 2018.1 &nbsp;&nbsp;&nbsp; Frontiers in Biological Sciences (Seminar  discussion class, 3h-long class)
 
-**HONORS AND SCHOLARSHIP**
+**HONORS AND SCHOLARSHIPS**
 
 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Peking University <br/>
 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Beijing <br/>
