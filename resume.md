@@ -14,7 +14,7 @@ permalink: /resume/
 
 **RESEARCH PROJECTS**
 
-2017.6– Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LehighUniversity<br/>
+2017.6– Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LehighUniversity
 <center> ResearchAdvisor: Wonpil Im, PhD </center>
 · Use molecular dynamics simulation to study activation and functional modulation of TRPV2 cationic channel, including cannabidiol activation, PI(4,5)P2, glycosylation; explore conformational changeof open and closed channels. (In collaboration with VeraMoiseenkova-Bell, PhD, University of Pennsylvania)
 
@@ -35,16 +35,11 @@ permalink: /resume/
 
 **CONFERENCES**
 
-2018.9 &nbsp;&nbsp;&nbsp; **Society  of General Physiology Annual Symposium**, MBL Woods Hole,  MA, USA.
-
-2018.6 &nbsp;&nbsp;&nbsp; **2nd Worldwide Chinese Computational  Biology and Molecular Simulation Conference**, Guangzhou, China.
-
-2018.4 &nbsp;&nbsp;&nbsp; **Tsinghua International Symposium of Computational  Structural Biology and Biophysics**,   Beijing, China.
-
-2018.2 &nbsp;&nbsp;&nbsp; **62nd Annual Meeting of Biophysics  Society**, San Francisco,  CA, USA.  (Poster  Presentation: **Shasha, F.**, Jeffery,  B.K., Wonpil, I., *Function, Property,  and Interaction of Archaeal Lipids: A Molecular Dynamics Simulation Study*.) 
-
-2017.6 &nbsp;&nbsp;&nbsp; **International  Symposium of** **Quantitative Biology: Computation and Single  Molecular Biophysics**, Beijing,  China.
-
+2018.9 &nbsp;&nbsp;&nbsp; **Society  of General Physiology Annual Symposium**, MBL Woods Hole,  MA, USA.<br/>
+2018.6 &nbsp;&nbsp;&nbsp; **2nd Worldwide Chinese Computational  Biology and Molecular Simulation Conference**, Guangzhou, China.<br/>
+2018.4 &nbsp;&nbsp;&nbsp; **Tsinghua International Symposium of Computational  Structural Biology and Biophysics**,   Beijing, China.<br/>
+2018.2 &nbsp;&nbsp;&nbsp; **62nd Annual Meeting of Biophysics  Society**, San Francisco,  CA, USA.  (Poster  Presentation: **Shasha, F.**, Jeffery,  B.K., Wonpil, I., *Function, Property,  and Interaction of Archaeal Lipids: A Molecular Dynamics Simulation Study*.) <br/>
+2017.6 &nbsp;&nbsp;&nbsp; **International  Symposium of Quantitative Biology: Computation and Single Molecular Biophysics**, Beijing, China. <br/>
 2016.9 &nbsp;&nbsp;&nbsp; **4th  Annual Symposium of Honors Undergraduate Program in Biology**,  Beijing, China.   (Organizer, Poster Presentation: **Shasha, F.**, Yongxian, X., Peng, Z., *Developing Voltage Sensor QuasAr2 for  Neuroscience Research*.)
 
 **TEACHING EXPERIENCE**
@@ -54,13 +49,13 @@ permalink: /resume/
 
 **HONORS AND SCHOLARSHIP**
 
-2018 &nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Peking University                      
-2018 &nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Beijing                                
-2018 &nbsp;&nbsp;&nbsp;&nbsp; Shentong Scholarship for Outstanding Graduates in Biology
-2017 – 2018 Yangxin Merit Scholarship                        
-2017 &nbsp;&nbsp;&nbsp;&nbsp; Overseas Summer Research Fellowship                
-2016 – 2017 Hui-Chun Chin and Tsung-Dao Lee Research Endowment
-2015 – 2017 Guanghua Scholarship                               
-2015 – 2016 10 Most Innovative Student Clubs (to Life Science Industry Association, serve as president) 
+2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Peking University <br/>
+2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Beijing <br/>
+2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shentong Scholarship for Outstanding Graduates in Biology <br/>
+2017 – 2018 Yangxin Merit Scholarship  <br/>
+2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overseas Summer Research Fellowship <br/>
+2016 – 2017 Hui-Chun Chin and Tsung-Dao Lee Research Endowment <br/>
+2015 – 2017 Guanghua Scholarship <br/>
+2015 – 2016 10 Most Innovative Student Clubs (to Life Science Industry Association, serve as president) <br/>
 2014 – 2015 Merit Student of Peking University                          
 
