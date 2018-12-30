@@ -4,11 +4,9 @@ title: Resume
 permalink: /resume/
 ---
 
-# Resume
+<center>### Shasha Feng, B.S.</center>
 
-### Shasha Feng, B.S.
-
-**Education**
+**EDUCATION**
 
 2018 – Present      Ph.D. program in Biochemistry, Lehigh University, USA
 
