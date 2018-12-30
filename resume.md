@@ -48,11 +48,11 @@ permalink: /resume/
 
 **HONORS AND SCHOLARSHIP**
 
-2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Peking University <br/>
-2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Beijing <br/>
-2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shentong Scholarship for Outstanding Graduates in Biology <br/>
+2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Peking University <br/>
+2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Beijing <br/>
+2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shentong Scholarship for Outstanding Graduates in Biology <br/>
 2017 – 2018 &nbsp; Yangxin Merit Scholarship  <br/>
-2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overseas Summer Research Fellowship <br/>
+2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overseas Summer Research Fellowship <br/>
 2016 – 2017 &nbsp; Hui-Chun Chin and Tsung-Dao Lee Research Endowment <br/>
 2015 – 2017 &nbsp; Guanghua Scholarship <br/>
 2015 – 2016 &nbsp; 10 Most Innovative Student Clubs (to Life Science Industry Association, serve as president) <br/>
