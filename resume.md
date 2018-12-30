@@ -4,14 +4,13 @@ title: Resume
 permalink: /resume/
 ---
 
-<center style="font-size: 25px"> Shasha Feng, B.S.</center>
+<center style="font-size: 28px"> Shasha Feng, B.S.</center>
 
 **EDUCATION**
 
-2018 – Present      Ph.D. program in Biochemistry, Lehigh University, USA                      
-2014 - 2018         B.S. in Biological Sciences, Peking University, Beijing, China
-
-2012 - 2014         B.A. program in Japanese Literature and Culture, Peking University, Beijing, China
+2018 – Present&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. program in Biochemistry, Lehigh University, USA                      
+2014 - 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Biological Sciences, Peking University, Beijing, China
+2012 - 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.A. program in Japanese Literature and Culture, Peking University, Beijing, China
 
 **RESEARCH EXPERIENCE**
 
