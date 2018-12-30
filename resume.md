@@ -14,7 +14,8 @@ permalink: /resume/
 
 **RESEARCH PROJECTS**
 
-2017.6– Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LehighUniversity <center> ResearchAdvisor: Wonpil Im, PhD </center>
+2017.6– Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LehighUniversity
+ResearchAdvisor: Wonpil Im, PhD
 <p style="padding-left: 20pt">· Use molecular dynamics simulation to study activation and functional modulation of TRPV2 cationic channel, including cannabidiol activation, PI(4,5)P2, glycosylation; explore conformational changeof open and closed channels. (In collaboration with VeraMoiseenkova-Bell, PhD, University of Pennsylvania)</p>
 
 · Parameterized archaeal lipids in CHARMMforce field, used molecular dynamics simulation to study archaeal bilayer membraneproperty, proved that it provides a different membrane environment, elucidatedquinone’s conformation in bilayer. (Co-advised by JefferyB. Klauda, PhD, University of Maryland)
