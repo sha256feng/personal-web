@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-<center style="font-size: 28px"> Shasha Feng, B.S.</center>
+<center style="font-size: 28px"><b>Shasha Feng, B.S.</b></center>
 
 **EDUCATION**
 
