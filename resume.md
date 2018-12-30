@@ -28,9 +28,9 @@ permalink: /resume/
                                    Research Advisor: Chen Song, PhD
 · Parameterized special plant sphingolipidsin CHARMM force field, to study why a protein has preference for certain lipidstypes.
 
-2016.1– 2018.10                    PekingUniversity
+<span style="font-family:Times; font-size:16px;">2016.1– 2018.10                    PekingUniversity
                                    ResearchAdvisor: Peng Zou, PhD
-· Improved the sensitivity of a neuronvoltage sensor for high-throughput neuron membrane potential probing, usingglycosylation site addition, drug additives and varying temperature,established membrane purification protocol.
+· Improved the sensitivity of a neuronvoltage sensor for high-throughput neuron membrane potential probing, usingglycosylation site addition, drug additives and varying temperature,established membrane purification protocol.</span>
 
 
 **PUBLICATION**
