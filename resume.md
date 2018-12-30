@@ -18,20 +18,20 @@ permalink: /resume/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ResearchAdvisor: Wonpil Im, PhD<br/>
 * Use molecular dynamics simulation to study activation and functional modulation of TRPV2 cationic channel, including cannabidiol activation, PI(4,5)P2, glycosylation; explore conformational changeof open and closed channels. (In collaboration with VeraMoiseenkova-Bell, PhD, University of Pennsylvania)
 
-<span style="padding-left: 3pt">· Parameterized archaeal lipids in CHARMMforce field, used molecular dynamics simulation to study archaeal bilayer membraneproperty, proved that it provides a different membrane environment, elucidatedquinone’s conformation in bilayer. (Co-advised by JefferyB. Klauda, PhD, University of Maryland)</span>
+* Parameterized archaeal lipids in CHARMMforce field, used molecular dynamics simulation to study archaeal bilayer membraneproperty, proved that it provides a different membrane environment, elucidatedquinone’s conformation in bilayer. (Co-advised by JefferyB. Klauda, PhD, University of Maryland)
 
 2017.11– 2018.7 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peking University<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Advisor: Chen Song, PhD<br/>
-<span style="padding-left: 5pt">· Parameterized special plant sphingolipidsin CHARMM force field, to study why a protein has preference for certain lipidstypes.</span>
+* Parameterized special plant sphingolipidsin CHARMM force field, to study why a protein has preference for certain lipidstypes.
 
 2016.1– 2018.10 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peking University<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ResearchAdvisor: Peng Zou, PhD<br/>
-<span style="padding-left: 7pt">· Improved the sensitivity of a neuronvoltage sensor for high-throughput neuron membrane potential probing, usingglycosylation site addition, drug additives and varying temperature,established membrane purification protocol.</span>
+* Improved the sensitivity of a neuronvoltage sensor for high-throughput neuron membrane potential probing, usingglycosylation site addition, drug additives and varying temperature,established membrane purification protocol.
 
 
 **PUBLICATION**
 
-1. **Feng,S.,** Klauda, J., & Im, W. (2018). *Function, Property, and Interaction of ArchaealLipids: A Molecular Dynamics Simulation Study*. Biophysical Journal, 114(3),459a. 
+1. **Feng, S.,** Klauda, J., & Im, W. (2018). *Function, Property, and Interaction of ArchaealLipids: A Molecular Dynamics Simulation Study*. Biophysical Journal, 114(3),459a. 
 
 **CONFERENCES**
 
