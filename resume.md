@@ -9,12 +9,12 @@ permalink: /resume/
 **EDUCATION**
 
 2018 – Present&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. program in Biochemistry, Lehigh University, USA                      
-2014 - 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Biological Sciences, Peking University, Beijing, China\
+2014 - 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Biological Sciences, Peking University, Beijing, China<br/>
 2012 - 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.A. program in Japanese Literature and Culture, Peking University, Beijing, China
 
 **RESEARCH EXPERIENCE**
 
-2017.6– Present                      LehighUniversity 
+2017.6– Present                   <center>LehighUniversity</center> 
                                      ResearchAdvisor: Wonpil Im, PhD
 · Used molecular dynamics simulation tostudy activation and functional modulation of TRPV2 cationic channel, includingcannabidiol activation, PI(4,5)P2, glycosylation; explore conformational changeof open and closed channels. (In collaboration with VeraMoiseenkova-Bell, PhD, University of Pennsylvania)
 
