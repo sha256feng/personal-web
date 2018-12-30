@@ -8,7 +8,7 @@ permalink: /resume/
 
 **EDUCATION**
 
-2018 – Present &nbsp;&nbsp;&nbsp;&nbsp; Ph.D. program in Biochemistry, Lehigh University, USA<br/>
+2018 – Present &nbsp;&nbsp;&nbsp; Ph.D. program in Biochemistry, Lehigh University, USA<br/>
 2014 – 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S. in Biological Sciences, Peking University, Beijing, China<br/>
 2012 – 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.A. program in Japanese Literature and Culture, Peking University, Beijing, China
 
@@ -20,11 +20,11 @@ permalink: /resume/
 
 · Parameterized archaeal lipids in CHARMMforce field, used molecular dynamics simulation to study archaeal bilayer membraneproperty, proved that it provides a different membrane environment, elucidatedquinone’s conformation in bilayer. (Co-advised by JefferyB. Klauda, PhD, University of Maryland)
 
-2017.11– 2018.7 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University<br/>
+2017.11– 2018.7 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University
 <center> Research Advisor: Chen Song, PhD </center>
 · Parameterized special plant sphingolipidsin CHARMM force field, to study why a protein has preference for certain lipidstypes.
 
-2016.1– 2018.10 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PekingUniversity
+2016.1– 2018.10 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peking University
 <center> ResearchAdvisor: Peng Zou, PhD </center>
 · Improved the sensitivity of a neuronvoltage sensor for high-throughput neuron membrane potential probing, usingglycosylation site addition, drug additives and varying temperature,established membrane purification protocol.
 
@@ -49,13 +49,13 @@ permalink: /resume/
 
 **HONORS AND SCHOLARSHIP**
 
-2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Peking University <br/>
-2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Beijing <br/>
-2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shentong Scholarship for Outstanding Graduates in Biology <br/>
-2017 – 2018 Yangxin Merit Scholarship  <br/>
-2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overseas Summer Research Fellowship <br/>
-2016 – 2017 Hui-Chun Chin and Tsung-Dao Lee Research Endowment <br/>
-2015 – 2017 Guanghua Scholarship <br/>
-2015 – 2016 10 Most Innovative Student Clubs (to Life Science Industry Association, serve as president) <br/>
-2014 – 2015 Merit Student of Peking University                          
+2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Peking University <br/>
+2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Graduate of Beijing <br/>
+2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shentong Scholarship for Outstanding Graduates in Biology <br/>
+2017 – 2018 &nbsp; Yangxin Merit Scholarship  <br/>
+2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overseas Summer Research Fellowship <br/>
+2016 – 2017 &nbsp; Hui-Chun Chin and Tsung-Dao Lee Research Endowment <br/>
+2015 – 2017 &nbsp; Guanghua Scholarship <br/>
+2015 – 2016 &nbsp; 10 Most Innovative Student Clubs (to Life Science Industry Association, serve as president) <br/>
+2014 – 2015 &nbsp; Merit Student of Peking University                          
 
