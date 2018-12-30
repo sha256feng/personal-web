@@ -9,5 +9,5 @@ Since Shasha thought sha is somehow in tech, it makes sense to build the persona
 
 Shasha is also, in some cases, a bit talktive. Keeping a blog sounds a pretty new year gift. 
 
-The website is not *well-founded* yet, like RSS so far doesn't work. Please don't click RSS feed! :sweat_smile:
+The website is not *well-founded* yet, like RSS so far doesn't work. Please don't click RSS feed!
 
