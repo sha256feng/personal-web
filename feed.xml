@@ -1,0 +1,47 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+<link href="localhost:4000/personal-web/feed.xml" rel="self" type="application/atom+xml"/>
+<link href="localhost:4000/personal-web/" rel="alternate" type="text/html"/>
+<updated>2019-01-03T22:25:08+00:00</updated>
+<id>localhost:4000/personal-web/feed.xml</id>
+<title type="html">Shasha Feng’s Research</title>
+<subtitle>
+Computational biophysics of macromolecules, especially membrane proteins.
+</subtitle>
+<entry>
+<title type="html">Farewell to 2018!</title>
+<link href="localhost:4000/personal-web/2018/12/29/say-farewell-2018.html" rel="alternate" type="text/html" title="Farewell to 2018!"/>
+<published>2018-12-29T15:23:07+00:00</published>
+<updated>2018-12-29T15:23:07+00:00</updated>
+<id>
+localhost:4000/personal-web/2018/12/29/say-farewell-2018
+</id>
+<content type="html" xml:base="localhost:4000/personal-web/2018/12/29/say-farewell-2018.html">
+<p>This is almost at the <strong>end of 2018</strong>. We are growing older, yes, you and me. :smiley:</p> <p>This is such a fantastic year. I went through lots of fancinating things during this year. With the end of year approaching, I cannot wait to tell you. :hushed:</p> <p><em>Keep an eye.</em></p> <p>I will update!</p>
+</content>
+<author>
+<name/>
+</author>
+<summary type="html">
+This is almost at the end of 2018. We are growing older, yes, you and me. :smiley:
+</summary>
+</entry>
+<entry>
+<title type="html">Welcome to Shasha’s Site!</title>
+<link href="localhost:4000/personal-web/2018/12/29/welcome-to-site.html" rel="alternate" type="text/html" title="Welcome to Shasha's Site!"/>
+<published>2018-12-29T15:23:07+00:00</published>
+<updated>2018-12-29T15:23:07+00:00</updated>
+<id>
+localhost:4000/personal-web/2018/12/29/welcome-to-site
+</id>
+<content type="html" xml:base="localhost:4000/personal-web/2018/12/29/welcome-to-site.html">
+<p>Hi Welcome! This is the personal website by Shasha!!</p> <p>Since Shasha thought she is somehow in tech, it makes sense to build the personal website via Github. People can then come to know about the research and maybe brainstorm together.</p> <p>Shasha is also, in some cases, a bit talktive. Keeping a blog sounds a pretty new year gift.</p> <p>The website is not <em>well-founded</em> yet, like RSS so far doesn’t work. Please don’t click RSS feed!</p>
+</content>
+<author>
+<name/>
+</author>
+<summary type="html">
+Hi Welcome! This is the personal website by Shasha!!
+</summary>
+</entry>
+</feed>
