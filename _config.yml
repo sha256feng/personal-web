@@ -30,6 +30,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jemoji
+
+atom-feed:
+  path: "http://feeds.feedburner.com/sha-research"
   
 favicon:
   source: icon.png
